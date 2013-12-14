@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Python Webkit
+_Comment=PythonWebkit application
+Categories=GNOME;Utility;
+Exec=python-webkit
+Icon=python-webkit
+Terminal=false
+Type=Application
